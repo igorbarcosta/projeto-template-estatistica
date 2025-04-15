@@ -15,7 +15,7 @@ Entender esses padrões pode fornecer insights valiosos para estratégias de mar
   Chocolate Sales Data
 
 - **Fonte:**  
-  [https://www.kaggle.com/datasets/atharvas/chocolate-sales-data](https://www.kaggle.com/datasets/atharvas/chocolate-sales-data)
+  [https://www.kaggle.com/datasets/atharvas/chocolate-sales-data](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
 
 - **Descrição breve:**  
   Este conjunto de dados contém informações sobre vendas de chocolates, incluindo data da venda, quantidade vendida, preço unitário, total da venda e localização. Os dados abrangem um período significativo, permitindo análises temporais e geográficas.
